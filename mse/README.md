@@ -10,6 +10,6 @@ compare.py -a 021 -s training -o tinygenuine-01 -t tinygenuine-03 -f tinyforged-
 
 
 Image file preprocessing<br>
-1.) Al images must be identical in size and scale<br>
+1.) All images must be identical in size and scale<br>
 2.) Trim whitespace<br>
 3.) Apply greyscale to images<brr>
